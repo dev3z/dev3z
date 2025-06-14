@@ -1,4 +1,4 @@
-# 💫  <h1>Hi 👋, I'm </h1>
+# <h1>Hi 👋, I'm  Devesh</h1>
 <p>🚀 Full-Stack Developer | DevOps Enthusiast | Data Analyst</p>
 
 <br><br>🔧 Currently building and scaling systems at **Renture**, where I blend backend logic with frontend finesse.  <br>🌐 I build full-stack web apps using the **MERN stack**, **Next.js**, and **Redux**, and I'm just as comfortable crafting APIs as I am designing clean UIs.  <br>⚙️ With a solid grasp of **DevOps**, I set up CI/CD pipelines, containerize apps with Docker, and automate workflows using **GitHub Actions** and AWS services.  <br>☁️ Proficient with **AWS**  deploying, monitoring, and integrating services like **EC2**, **Lambda**, **S3**, and **CloudWatch** to keep apps performant and scalable.  <br>📊 I also dive into data: building reports and dashboards with **Power BI**, and using Python libraries like **Pandas**, **Matplotlib**, and **Seaborn** for insights and visualization.  <br>🛠️ Love working with modern tools and workflows from syncing Notion with GitHub to managing cloud resources and microservices.  <br>⚡ Fun fact: I treat automation not just as a convenience, but as a craft.<br>
