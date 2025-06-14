@@ -55,13 +55,10 @@
 
 
 # 📊  Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev3z&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)       ![](https://github-contributor-stats.vercel.app/api?username=dev3z&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=dev3z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="30" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev3z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+ ![](https://github-contributor-stats.vercel.app/api?username=dev3z&limit=5&github_dark&combine_all_yearly_contributions=true)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   # 💰 You can help me by Donating
