@@ -55,8 +55,7 @@
 
 
 # 📊  Stats
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev3z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
- ![](https://github-contributor-stats.vercel.app/api?username=dev3z&limit=5&github_dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev3z&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)       ![](https://github-contributor-stats.vercel.app/api?username=dev3z&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 
 
@@ -112,6 +111,5 @@
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/deveshkumarpatel" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
