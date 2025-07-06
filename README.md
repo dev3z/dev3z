@@ -7,7 +7,7 @@
   Full-Stack Developer | DevOps Enthusiast | Data Analyst
 </h3>
   
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/http://discordapp.com/users/879641661435703306)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/879641661435703306)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deveshkumarpatel)
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dkp05022003@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=medium&logoColor=white)](https://medium.com/@dev3z)
