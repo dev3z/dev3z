@@ -29,7 +29,7 @@
 
 
 🔧 Building scalable web apps with **MERN**, **Next.js**, and **AWS-powered DevOps**, specializing in **CI/CD** and **Docker**.  
-📊 Creating reports and dashboards with **Power BI** and visualizations with **Python** (**Pandas**, **Numpy**, **Matplotlib**, **Seaborn**).  
+📊 Creating reports and dashboards with **Power BI** and visualizations with **Python** (**Matplotlib**, **Seaborn**).  
 ⚡ I treat automation not just as a convenience, but as a craft.
 <be>
 
